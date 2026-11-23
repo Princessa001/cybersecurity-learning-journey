@@ -1,17 +1,13 @@
 # cybersecurity-learning-journey
-My notebook documenting my journey in computer science, linux and cybersecurity
 
+My notebook documenting my journey in Computer Science, Linux and Cybersecurity.
 
-What I'm Learning
+## What I'm Learning
 
-Networking: Cisco Networking Academy – Junior Cybersecurity Analyst career path.
+- Networking: Cisco Networking Academy – Junior Cybersecurity Analyst career path.
+- Linux: Linux commands, file management and permissions.
+- Cybersecurity: Security fundamentals and practical exercises.
+- Tools: Cisco Packet Tracer, Wireshark and Kali Linux.
+- Programming:Developing my Python skills.
 
-Linux: Linux commands, file management and permissions.
-
-Cybersecurity: Security fundamentals and practical exercises.
-
-Tools: Cisco Packet Tracer, Wireshark and Kali Linux.
-
-Programming: Developing my Python skills.
-
-This repository will grow as i learn, i will document my experiences
+This repository will grow as I learn, and I'll use it to document my experiences, practical exercises, challenges and progress along the way.
